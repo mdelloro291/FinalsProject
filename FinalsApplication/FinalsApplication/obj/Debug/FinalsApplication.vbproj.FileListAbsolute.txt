@@ -1,0 +1,16 @@
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\bin\Debug\FinalsApplication.exe.config
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\bin\Debug\FinalsApplication.exe
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\bin\Debug\FinalsApplication.pdb
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\bin\Debug\FinalsApplication.xml
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.vbprojResolveAssemblyReference.cache
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.ProductsForm.resources
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.Resources.resources
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.TransactionsForm.resources
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.vbproj.GenerateResource.Cache
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.exe
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.xml
+C:\Users\matth\AppData\Local\Temporary Projects\FinalsApplication\obj\Debug\FinalsApplication.pdb
+D:\Academics\2nd Year\1st Semester\Information Management\FinalsProject\FinalsApplication\FinalsApplication\bin\Debug\FinalsApplication.exe.config
+D:\Academics\2nd Year\1st Semester\Information Management\FinalsProject\FinalsApplication\FinalsApplication\obj\Debug\FinalsApplication.exe
+D:\Academics\2nd Year\1st Semester\Information Management\FinalsProject\FinalsApplication\FinalsApplication\obj\Debug\FinalsApplication.xml
+D:\Academics\2nd Year\1st Semester\Information Management\FinalsProject\FinalsApplication\FinalsApplication\obj\Debug\FinalsApplication.pdb
